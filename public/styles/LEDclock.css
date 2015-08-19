@@ -6,7 +6,7 @@
     .container{
       height:110px;
       width:385px;
-      background-color: black;
+      background-color: rgb(30,30,30);
       display:flex;
       position:relative;
       margin: 2em auto;
