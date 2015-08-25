@@ -1,7 +1,7 @@
 {
-  "name": "famoApp",
+  "name": "LEDclock",
   "version": "0.0.1",
-  "description": "famo.us university",
+  "description": "led clock",
   "main": "server.js",
   "repository": "",
   "license": "Proprietary",
@@ -10,8 +10,5 @@
     "express-partials": "~0.2.0",
     "express-session": "^1.8.2",
     "nodemon": "^1.2.1"
-  },
-  "devDependencies": {
-    "supertest": "^0.10.0"
   }
 }
